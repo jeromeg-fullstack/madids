@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10d678ab.chunk.css",
+    "main.js": "/static/js/main.7130a892.chunk.js",
+    "main.js.map": "/static/js/main.7130a892.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
+    "static/css/2.3a13669e.chunk.css": "/static/css/2.3a13669e.chunk.css",
+    "static/js/2.1827b4b6.chunk.js": "/static/js/2.1827b4b6.chunk.js",
+    "static/js/2.1827b4b6.chunk.js.map": "/static/js/2.1827b4b6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.655a0b33bc8a579c74b8c6c70d38bf07.js": "/precache-manifest.655a0b33bc8a579c74b8c6c70d38bf07.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.3a13669e.chunk.css.map": "/static/css/2.3a13669e.chunk.css.map",
+    "static/css/main.10d678ab.chunk.css.map": "/static/css/main.10d678ab.chunk.css.map",
+    "static/js/2.1827b4b6.chunk.js.LICENSE.txt": "/static/js/2.1827b4b6.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/static/media/1.566dccbc.jpg",
+    "static/media/bank-note.svg": "/static/media/bank-note.c38360ea.svg",
+    "static/media/bed.svg": "/static/media/bed.604a5a05.svg",
+    "static/media/birthday-cake.svg": "/static/media/birthday-cake.e2b1e9f6.svg",
+    "static/media/blind.svg": "/static/media/blind.9bb27ccc.svg",
+    "static/media/cave1.jpg": "/static/media/cave1.c3edf6b5.jpg",
+    "static/media/credit-card.svg": "/static/media/credit-card.1585abe0.svg",
+    "static/media/cutlery.svg": "/static/media/cutlery.71d094a8.svg",
+    "static/media/facebook.svg": "/static/media/facebook.73caaa01.svg",
+    "static/media/fire-extinguisher.svg": "/static/media/fire-extinguisher.9ce6986b.svg",
+    "static/media/instagram.svg": "/static/media/instagram.0b117993.svg",
+    "static/media/logo.svg": "/static/media/logo.633890db.svg",
+    "static/media/resort1.jpg": "/static/media/resort1.6127ad1f.jpg",
+    "static/media/resort3.jpg": "/static/media/resort3.644e4952.jpg",
+    "static/media/shopping-cart.svg": "/static/media/shopping-cart.dd5bef1b.svg",
+    "static/media/shower.svg": "/static/media/shower.ec29d2d2.svg",
+    "static/media/twitter.svg": "/static/media/twitter.435fc4bc.svg",
+    "static/media/wifi.svg": "/static/media/wifi.1670da7c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40394c.js",
+    "static/css/2.3a13669e.chunk.css",
+    "static/js/2.1827b4b6.chunk.js",
+    "static/css/main.10d678ab.chunk.css",
+    "static/js/main.7130a892.chunk.js"
+  ]
+}
